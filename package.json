@@ -1,0 +1,6 @@
+{
+  "name": "fhi_cuchta",
+  "scripts": {
+    "test": "node src/index.js"
+  }
+}
