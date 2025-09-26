@@ -2,5 +2,8 @@
   "name": "fhi_cuchta",
   "scripts": {
     "test": "node src/index.js"
+  },
+  "dependencies": {
+    "typescript": "^5.9.2"
   }
 }
